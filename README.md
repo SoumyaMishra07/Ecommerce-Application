@@ -1,5 +1,5 @@
 ## Introduction
-Developed Amazon like E-Commerce platform with intuitive UI, user centric design, and robust Java, JavaFX, MySQL backend logic.
+Developed Amazon like E-Commerce platform with intuitive UI, user centric design, and robust Java, JavaFX, MySQL backend logic
 
 ## Features
 
